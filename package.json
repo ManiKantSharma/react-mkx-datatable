@@ -1,6 +1,6 @@
 {
   "name": "react-mkx-datatable",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A premium, lightweight datatable for React built with @mui/material. No heavy dependencies.",
   "main": "dist/index.js",
   "module": "dist/index.js",
@@ -29,10 +29,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ManiKantSharma/react-datatable.git"
+    "url": "git+https://github.com/ManiKantSharma/react-mkx-datatable.git"
   },
   "bugs": {
-    "url": "https://github.com/ManiKantSharma/react-datatable/issues"
+    "url": "https://github.com/ManiKantSharma/react-mkx-datatable/issues"
   },
   "homepage": "https://react-mkx-datatable.vercel.app/",
   "peerDependencies": {
