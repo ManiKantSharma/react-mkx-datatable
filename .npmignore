@@ -1,0 +1,20 @@
+# Source
+src/
+
+# Development Config
+tsconfig.json
+vite.config.ts
+.gitignore
+.npmignore
+
+# Example App
+example/
+
+# Assets
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Logs
+*.log
